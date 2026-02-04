@@ -1,0 +1,2 @@
+# Laboratorios
+Pensamiento Computacional (practica)
