@@ -1,0 +1,8 @@
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\L5_CALA1129526\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe.config
