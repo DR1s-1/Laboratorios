@@ -6,3 +6,11 @@ C:\Users\Home\Documents\GitHub\Laboratorios\Lab 5\Lab_6_CALA1129526\Lab_6_CALA11
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab 5\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.exe
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab 5\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.pdb
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab 5\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\bin\Debug\Lab_6_CALA1129526.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\bin\Debug\Lab_6_CALA1129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\bin\Debug\Lab_6_CALA1129526.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab_6_CALA1129526\Lab_6_CALA1129526\Lab_6_CALA1129526\obj\Debug\Lab_6_CALA1129526.pdb

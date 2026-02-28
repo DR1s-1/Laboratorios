@@ -19,6 +19,9 @@ namespace Lab_6_CALA1129526
 
 
             // Ejercicio #1
+
+            Console.WriteLine("Ejercicio #1");
+
             string bici = "bicicleta";
             string moto = "motocicleta";
             string carro = "carro";
@@ -58,7 +61,7 @@ namespace Lab_6_CALA1129526
 
             // Ejercicio #2 Banco Industrial
 
-
+            Console.WriteLine("Ejercicio #2");
 
 
             string tipo;
@@ -95,7 +98,7 @@ namespace Lab_6_CALA1129526
             // Ejercicio #3
 
 
-
+            Console.WriteLine("Ejercicio #3");
 
 
 
@@ -127,7 +130,7 @@ namespace Lab_6_CALA1129526
             // Ejercicio #4 Bella Napoli
 
 
-
+            Console.WriteLine("Ejercicio #4");
 
 
             string tipo_pizza;
