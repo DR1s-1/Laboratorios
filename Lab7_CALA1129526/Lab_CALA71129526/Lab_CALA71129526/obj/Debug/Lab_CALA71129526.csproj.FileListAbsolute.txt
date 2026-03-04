@@ -1,0 +1,8 @@
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\bin\Debug\Lab_CALA71129526.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\bin\Debug\Lab_CALA71129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\bin\Debug\Lab_CALA71129526.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\obj\Debug\Lab_CALA71129526.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\obj\Debug\Lab_CALA71129526.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\obj\Debug\Lab_CALA71129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\obj\Debug\Lab_CALA71129526.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab7_CALA1129526\Lab_CALA71129526\Lab_CALA71129526\obj\Debug\Lab_CALA71129526.exe.config
