@@ -5,3 +5,4 @@ C:\Users\Home\Documents\GitHub\Laboratorios\Lab8_CALA_1129526\Lab8_CALA_1129526\
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab8_CALA_1129526\Lab8_CALA_1129526\Lab8_CALA_1129526\obj\Debug\Lab8_CALA_1129526.csproj.CoreCompileInputs.cache
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab8_CALA_1129526\Lab8_CALA_1129526\Lab8_CALA_1129526\obj\Debug\Lab8_CALA_1129526.exe
 C:\Users\Home\Documents\GitHub\Laboratorios\Lab8_CALA_1129526\Lab8_CALA_1129526\Lab8_CALA_1129526\obj\Debug\Lab8_CALA_1129526.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Lab8_CALA_1129526\Lab8_CALA_1129526\Lab8_CALA_1129526\obj\Debug\Lab8_CALA_1129526.exe.config
