@@ -1,0 +1,8 @@
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\bin\Debug\Proyecto_1CALAJACL.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\bin\Debug\Proyecto_1CALAJACL.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\bin\Debug\Proyecto_1CALAJACL.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\obj\Debug\Proyecto_1CALAJACL.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\obj\Debug\Proyecto_1CALAJACL.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\obj\Debug\Proyecto_1CALAJACL.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\obj\Debug\Proyecto_1CALAJACL.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto\Proyecto_1CALAJACL\Proyecto_1CALAJACL\obj\Debug\Proyecto_1CALAJACL.exe.config
