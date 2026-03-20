@@ -1,0 +1,7 @@
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\bin\Debug\LAB_9_CALA1129526.exe.config
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\bin\Debug\LAB_9_CALA1129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\bin\Debug\LAB_9_CALA1129526.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\obj\Debug\LAB_9_CALA1129526.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\obj\Debug\LAB_9_CALA1129526.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\obj\Debug\LAB_9_CALA1129526.exe
+C:\Users\Home\Documents\GitHub\Laboratorios\LAB9_CALA_1129526\LAB_9_CALA1129526\LAB_9_CALA1129526\obj\Debug\LAB_9_CALA1129526.pdb
