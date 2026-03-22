@@ -43,7 +43,11 @@ namespace LAB_9_CALA1129526
 
         static void MostrarInfoCurso()
         {
-            Console.WriteLine("Curso: Diseño de Algoritmos - Laboratorio 09");
+            Console.WriteLine("Curso: Lab - Pensamiento Computacional - Laboratorio 09");
+            Console.WriteLine();
+            Console.WriteLine("Presione una tecla para continuar...");
+            Console.ReadKey();
+            Console.Clear();
         }
 
         // --- EJERCICIO 2: Calculadora de áreas ---
@@ -66,11 +70,16 @@ namespace LAB_9_CALA1129526
             Console.Write("Altura del triángulo: ");
             double hTri = double.Parse(Console.ReadLine());
             AreaTriangulo(bTri, hTri);
+            Console.WriteLine();
+            Console.WriteLine("Presione una tecla para continuar...");
+            Console.ReadKey();
+            Console.Clear();
         }
 
         static void AreaCuadrado(double l) => Console.WriteLine($"Área Cuadrado: {l * l}");
         static void AreaRectangulo(double b, double h) => Console.WriteLine($"Área Rectángulo: {b * h}");
         static void AreaTriangulo(double b, double h) => Console.WriteLine($"Área Triángulo: {(b * h) / 2}");
+
 
         // --- EJERCICIO 3: Menú de figuras ---
         static void EjecutarEjercicio3()
@@ -90,12 +99,23 @@ namespace LAB_9_CALA1129526
 
                     switch (opcion)
                     {
-                        case 1: DibujarCuadrado(n); break;
-                        case 2: DibujarTriangulo(n); break;
-                        case 3: DibujarLinea(n); break;
+                        case 1: DibujarCuadrado(n); 
+                            Console.WriteLine("Presione una tecla para continuar...");
+                            Console.ReadKey(); 
+                            Console.Clear(); break;
+                        case 2: DibujarTriangulo(n);
+                            Console.WriteLine("Presione una tecla para continuar...");
+                            Console.ReadKey();
+                            Console.Clear(); break; 
+                        case 3: DibujarLinea(n);
+                            Console.WriteLine("Presione una tecla para continuar...");
+                            Console.ReadKey();
+                            Console.Clear(); break;
                     }
                 }
             } while (opcion != 4);
+            Console.WriteLine();
+            Console.Clear();
         }
 
         static void DibujarCuadrado(int n)
@@ -117,6 +137,7 @@ namespace LAB_9_CALA1129526
         static void DibujarLinea(int n)
         {
             Console.WriteLine(new string('*', n));
+        
         }
 
         // --- EJERCICIO 4: Registro de notas ---
@@ -144,15 +165,19 @@ namespace LAB_9_CALA1129526
             bool aprobado = nota >= 61;
             Console.WriteLine(aprobado ? "Resultado: Aprobado" : "Resultado: Reprobado");
             return aprobado;
+          
         }
 
         static void MostrarResumen(double prom, int apr, int repr)
         {
             Console.WriteLine($"\nRESUMEN:\nPromedio: {prom}\nAprobados: {apr}\nReprobados: {repr}");
+            Console.WriteLine("Presione una tecla para continuar...");
+            Console.ReadKey();
+            Console.Clear();
 
             // --- EJERCICIO 5: Intercambio (ref) ---
-            
-            
+
+
         }
         static void EjecutarEjercicio5()
         {
@@ -163,7 +188,7 @@ namespace LAB_9_CALA1129526
             int b = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"Antes: A={a}, B={b}");
-            Console.WriteLine($"Después: A={a}, B={b}");
+            Console.WriteLine($"Después: A={b}, B={a}");
 
 
         }
@@ -172,6 +197,7 @@ namespace LAB_9_CALA1129526
             int temp = x;
             x = y;
             y = temp;
+         
         }
     }
 }
