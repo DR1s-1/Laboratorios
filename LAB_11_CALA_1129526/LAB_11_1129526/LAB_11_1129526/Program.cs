@@ -42,6 +42,13 @@ namespace LAB_11_1129526
             if (largo && mayus && num && especial)
             {
                 Console.WriteLine("Resultado: Contraseña válida\n");
+
+                Console.WriteLine();
+                Console.WriteLine();
+                Console.WriteLine("Presione una tecla para continuar...");
+                Console.ReadKey();
+                Console.Clear();
+
             }
             else
             {
