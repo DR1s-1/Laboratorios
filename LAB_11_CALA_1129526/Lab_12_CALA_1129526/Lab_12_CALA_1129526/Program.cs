@@ -59,6 +59,7 @@ namespace Lab_12_CALA_1129526
             Console.WriteLine($"Suma de la columna {columna}: {sumaC}");
             Console.WriteLine("\nPresione cualquier tecla para continuar...");
             Console.ReadLine();
+            Console.Clear();
         }
 
         static void LlenarMatriz(int[,] m)
@@ -124,6 +125,7 @@ namespace Lab_12_CALA_1129526
             Console.WriteLine($"\nEl número mayor en la matriz es: {mayor}");
             Console.WriteLine("\nPresione cualquier tecla para continuar...");
             Console.ReadLine();
+            Console.Clear();
         }
 
         static void CargarMatriz(float[,] m)
@@ -198,6 +200,7 @@ namespace Lab_12_CALA_1129526
 
             Console.WriteLine("\nPresione cualquier tecla para continuar...");
             Console.ReadLine();
+            Console.Clear();
         }
 
         static void LlenarMatrizA(int[,] m)
@@ -287,6 +290,7 @@ namespace Lab_12_CALA_1129526
 
             Console.WriteLine("\n\nPresione cualquier tecla para continuar...");
             Console.ReadLine();
+            Console.Clear();
         }
 
         static void Llenar(int[,] m)
