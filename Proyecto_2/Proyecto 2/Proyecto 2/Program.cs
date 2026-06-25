@@ -237,7 +237,7 @@ namespace Proyecto2_Granja
             Console.WriteLine("================================================");
         }
 
-        // ==================== MOSTRAR CUADRICULA ====================
+        // ==================== CUADRICULA ====================
         static void MostrarCuadricula()
         {
             Console.WriteLine();

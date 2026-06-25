@@ -5,3 +5,4 @@ C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto_2\Proyecto 2\Proyecto 2\obj
 C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto_2\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.csproj.CoreCompileInputs.cache
 C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto_2\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.exe
 C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto_2\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.pdb
+C:\Users\Home\Documents\GitHub\Laboratorios\Proyecto_2\Proyecto 2\Proyecto 2\obj\Debug\Proyecto 2.exe.config
